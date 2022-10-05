@@ -27,8 +27,6 @@ The roadmap basically is the curriculum we're using for the study group. [Check 
   <tr>
     <td align="center"><a href="https://amplication.com/"><img src="https://lh3.googleusercontent.com/a-/ACNPEu9vxASA6j4-h3EJe2JXUBy3FVJY2clUrfh7-wq7Kw=s192-c-mo" width="100px;" alt=""/><br /><sub><b>Chukwuemeka Chukwurah</b></sub></a><br /><a href="https://github.com/onebridgesoftware/fort/commits?author=emmanuerl" title="Code">💻</a></td>
     </td>
-  </tr>
-  <tr>
     <td align="center"><a href="https://github.com/Babatunde13"><img src="https://lh3.googleusercontent.com/a-/ACNPEu_7b--WHU-J-pgKtK3_FWG0o__D3GOg9cYFrqeetYc=s192-c-mo" width="100px;" alt=""/><br /><sub><b>Babatunde Koiki</b></sub></a><br /><a href="https://github.com/Babatunde13" title="Code">💻</a></td>
     </td>
   </tr>
