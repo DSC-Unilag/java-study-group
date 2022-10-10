@@ -33,5 +33,9 @@ The roadmap basically is the curriculum we're using for the study group. [Check 
     </td>
     <td align="center"><a href="https://github.com/chidi-godwin/"><img src="https://lh3.googleusercontent.com/pw/AL9nZEV-Mc-hyQe-dbtOEKCfto7ZeZC71zwfmkDuAK7uWyRZg_a4X6QbxkHP54YspS4YtxiZBqfdFyyDhlFbSpz9hxmVsAlVjZa_ydVGSD0eGmT-jGUVF_ZwfgpgfzHbSSLpk1iIjYKBDhYPiC1Dqw3_Q5u_=w449-h337-no?authuser=0" width="100px;" alt=""/><br /><sub><b>Chidiebere Nwachukwu</b></sub></a><br /><a href="https://github.com/chidi-godwin" title="Code">💻</a></td>
     </td>
+    </td>
+    <td align="center"><a href="https://github.com/Mbaoma/"><img src="https://lh3.googleusercontent.com/a/ALm5wu295zTzfP-NFJyWAHFqmVlj0JlVETJBkx8r6UNDzgM=s576-p-rw-no"
+    width="100px;" alt=""/><br /><sub><b>Mbaoma Chioma</b></sub></a><br /><a href="https://github.com/Mbaoma" title="Code">💻</a></td>
+    </td>
   </tr>
 </table>
