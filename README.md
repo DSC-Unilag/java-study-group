@@ -37,5 +37,9 @@ The roadmap basically is the curriculum we're using for the study group. [Check 
     width="100px;" alt=""/><br /><sub><b>Mbaoma Chioma</b></sub></a><br /><a href="https://github.com/Mbaoma" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/abdulbaqisky/"><img src="https://lh3.googleusercontent.com/pw/AL9nZEXFggPyjdXBxHJ66yYD142isRGnnfwFAMSsNwrqQFqqeOTlr57DH4Hrf9fV8gnZPRGVD43PzX_A8w5nmmCvPK87e6en2-XzeioT8VxysOWmZEvMPxooDIXlCS8vNRI3z2g049rfslDAFtm1feGG3i99Ag=s400-no?authuser=0" width="100px;" alt=""/><br /><sub><b>Adekomi AbdulBaaqi</b></sub></a><br /><a href="https://github.com/abdulbaqisky" title="Code">💻</a></td>
     </td>
+     <td align="center"><a href="https://github.com/Mbaoma/"><img src="https://lh3.googleusercontent.com/a/ALm5wu295zTzfP-NFJyWAHFqmVlj0JlVETJBkx8r6UNDzgM=s576-p-rw-no"
+    width="100px;" alt=""/><br /><sub><b>Mbaoma Chioma</b></sub></a><br /><a href="https://github.com/Mbaoma" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/Kordedekehine"><img src="https://lh3.googleusercontent.com/xzoIvoYTwxH-VWIhk8CTJ679uj4oUF4yHe-Yx8AjuAXO8RYfmInhabhMa8D6KJFvPBiTVECMeN_1o1uqRBMt9yWsxXydvW-is7k9cwaFhDB6XF3SUXWMzAGp9r7NidHLJTdRCGz9JA=w2400"> <img src="" width="100px;" alt=""/><br /><sub><b>Salami Korede</b></sub></a><br /><a href="https://github.com/Kordedekehine" title="Code">💻</a></td>
+    </td>
   </tr>
 </table>
